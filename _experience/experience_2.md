@@ -1,7 +1,8 @@
 ---
-title: "Flexiele"
+title: "Natural Language Processing Intern"
 collection: experience
 type : "Natural Language Processing Intern"
+venue : "Flexiele"
 years: May 2020 - July 2020
 ---
 
