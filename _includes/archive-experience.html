@@ -12,6 +12,9 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.company %}<p>{{post.compname , post.year}}{% endif %}
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -35,7 +38,6 @@
     {% if post.journal %}<p>Published in: {{post.journal}}{% endif %}
     {% if post.years %}<p>{{post.years}}{% endif %}
     {% if post.excerpt %}<p>{{post.excerpt}}{% endif %}
-    {% if post.company %}<p>{{post.compname , post.years}}{% endif %}
     {% if post.articleurl %}<p>Link to <a href=" {{ post.articleurl }} "><u>article</u></a></p>{% endif %}
   </article>
 </div>
