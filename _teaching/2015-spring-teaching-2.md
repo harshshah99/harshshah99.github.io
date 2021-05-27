@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "BITS Pilani, Neural Networks and Fuzzy Logic"
 date: 2020-04-01
-location: "City, Country"
+location: "Pilani, India"
 ---
 
 - Conduct workshops to familiarise undergrads with NumPy, Pandas, PyTorch and Tensorflow
