@@ -1,7 +1,5 @@
 ---
 title: "Fashion Intelligence System"
-excerpt: "VGG16 based Fashion Recommendation"
-url : https://github.com/harshshah99/fashion_ai
 collection: projects
 ---
 
