@@ -82,7 +82,7 @@ analytics:
 author:
   #name             : "Your Sidebar Name"
   avatar           : "harsh_profile_pic.jpg"
-  bio              : "I'm a final year student at BITS Pilani interested in Deep Learning and NLP"
+  bio              : "Undergrad at BITS Pilani interested in Deep Learning and NLP"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
