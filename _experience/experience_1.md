@@ -1,7 +1,8 @@
 ---
-title: "Belief Systems"
+title: "Data Science Intern"
 collection: experience
 type : "Data Science Intern"
+venue: "Belief Systems"
 years: May 2019 - July 2019
 ---
 
