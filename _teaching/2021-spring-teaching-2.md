@@ -9,5 +9,5 @@ location: "Pilani, India"
 ---
 
 - Conduct workshops to familiarise undergrads with NumPy, Pandas, PyTorch and Tensorflow
-- Design and evaluate Neural Networks based Python assignments to test their understanding
+- Design and evaluate Neural Networks and Machine Learning based Python assignments
 - Supervise them as they implement Research Papers for their final assesement
