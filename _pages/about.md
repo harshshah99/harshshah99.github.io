@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there!
 
-I am a final year undergraduate student at BITS Pilani pursuing a dual degree in MSc. Economics and B.E. Electrical and Electronics Engineering. I am interested in Deep Learning, Natural Language Prcoessing, Information Retrieval and Recommender Systems.
+I am a final year undergraduate student at BITS Pilani pursuing a dual degree in MSc. Economics and B.E. Electrical and Electronics Engineering. I am interested in Natural Language Prcoessing, Deep Learning, Information Retrieval and Recommender Systems.
 
 
 Currently, I am working as a Research Intern at Philips Innovation Campus where I am applying Machine Learning based methods to solve problems in the HealthTech domain.
