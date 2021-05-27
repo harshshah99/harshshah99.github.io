@@ -8,13 +8,6 @@ date: 2020-04-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Conduct workshops to familiarise undergrads with NumPy, Pandas, PyTorch and Tensorflow
+- Design and evaluate Neural Networks based Python assignments to test their practical knowledge
+- Supervise them as they implement Research Papers for their final assesement
