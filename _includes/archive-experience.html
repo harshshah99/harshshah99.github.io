@@ -12,8 +12,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-{% if post.company %}<p>{{post.compname , post.year}}{% endif %}
-
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -30,7 +28,7 @@
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">{{ title }}
     </h2>
-     <h3 class="archive__item-title2" itemprop="headline2">{{ post.compname , post.year }}
+     <h3 class="archive__item-title2" itemprop="headline2">{{ post.compname , post.years }}
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
