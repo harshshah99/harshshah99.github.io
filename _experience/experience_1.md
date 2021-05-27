@@ -2,7 +2,7 @@
 title: "Belief Systems"
 collection: experience
 type : "Data Science Intern"
-years: May 2019 - Jule 2019
+years: May 2019 - July 2019
 ---
 
 - Wrote python scripts to scrape data using BeautifulSoup and Selenium to create database for offline use
