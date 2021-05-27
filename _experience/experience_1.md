@@ -1,8 +1,9 @@
 ---
 title: "Data Science Intern"
-Company : "Belief Systems"
+company : "Belief Systems"
 collection: experience
-year : Belief Systems, May - July 2019
+compname: "Belief Systems"
+year : May - July 2019
 ---
 
 - Wrote python scripts to scrape data using BeautifulSoup and Selenium to create database for offline use
