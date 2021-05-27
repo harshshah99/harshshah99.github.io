@@ -8,6 +8,6 @@ date: 2021-04-01
 location: "Pilani, India"
 ---
 
-- Conduct workshops to familiarise undergrads with NumPy, Pandas, PyTorch and Tensorflow
+- Conduct workshops to familiarise students with NumPy, Pandas, PyTorch and TensorFlow
 - Design and evaluate Neural Networks and Machine Learning based Python assignments
 - Supervise them as they implement Research Papers for their final assesement
