@@ -1,9 +1,8 @@
 ---
 title: "Head Teaching Assistant"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "BITS Pilani, Neural Networks and Fuzzy Logic"
+venue: "Neural Networks and Fuzzy Logic, BITS Pilani"
 date: 2021-04-01
 location: "Pilani, India"
 ---
