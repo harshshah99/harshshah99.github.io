@@ -1,8 +1,9 @@
 ---
 title: "Natural Language Processing Intern"
+company : "FlexiELe"
 collection: experience
-venue : "Flexiele"
-years: May 2020 - July 2020
+compname: "FlexiEle"
+year : "May - July 2020"
 ---
 
 - Developed a Resume information extractor using NLTK and OpenCV and stored data in JSON format
