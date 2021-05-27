@@ -1,5 +1,5 @@
 ---
-collection: cv
+collection: 
 title: Resume
 ---
 <iframe src="https://harshshah99.github.io/files/Resume_Harsh.pdf" width="100%" height="800rem">
