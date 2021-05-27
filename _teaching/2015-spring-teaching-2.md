@@ -1,7 +1,7 @@
 ---
 title: "Head Teaching Assistant"
 collection: teaching
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2021-spring-teaching-1
 type: "Undergraduate Course"
 venue: "Neural Networks and Fuzzy Logic, BITS Pilani"
 date: 2021-04-01
