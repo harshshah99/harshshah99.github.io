@@ -1,7 +1,7 @@
 ---
 title: "Data Science Intern"
-collection: experience
 Company : "Belief Systems"
+collection: experience
 years: May 2019 - July 2019
 ---
 
