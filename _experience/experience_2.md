@@ -1,11 +1,10 @@
 ---
 title: "Natural Language Processing Intern"
 collection: experience
-type : "Natural Language Processing Intern"
 venue : "Flexiele"
 years: May 2020 - July 2020
 ---
 
-- Wrote python scripts to scrape data using BeautifulSoup and Selenium to create database for offline use
-- Cleaned and visualized client data using dashboards in Power BI to deliver actionable insights
-- Built a people counter app using OpenCV to keep track of people inside the shop using video from CCTV
+- Developed a Resume information extractor using NLTK and OpenCV and stored data in JSON format
+-  Built and deployed a RASA based chatbot for tasks like leave management and stress assesment
+-  Secured the chatbot with a custom HTTP input channel having JWT authentication to allow authorized access
