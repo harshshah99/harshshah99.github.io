@@ -1,3 +1,7 @@
+---
+collection: cv
+title: 
+---
 
 <details>
 <summary>Tools </summary>
