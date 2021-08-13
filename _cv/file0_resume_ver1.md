@@ -2,6 +2,8 @@
 collection: cv
 title: Resume
 ---
+
 <object data="https://harshshah99.github.io/files/Resume_Harsh.pdf" width="100%" height="800">
+    <embed ng-src="https://harshshah99.github.io/files/Resume_Harsh.pdf" width="100%" height="800"> </embed> 
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Resume_Harsh.pdf">Download PDF</a>
 </object>
