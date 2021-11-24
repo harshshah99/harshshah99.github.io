@@ -1,10 +1,10 @@
 ---
-title: "visiting Researcher"
+title: "Visiting Researcher"
 company : "National University of Singapore"
 collection: experience
-compname: "NUS"
+compname: "National University of Singapore"
 year : "August 2021 - Present"
 ---
 
-- Researching Multimodal and Graph-based approaches for context aware email reply prediction
 - Working under the guidance of Dr. Kokil Jaidka and Prof. Lyle Ungar (University of Pennsylvania)
+- Researching Multimodal and Graph-based approaches for context aware email reply prediction
